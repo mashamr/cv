@@ -1,2 +1,2 @@
 # cv
-[мой gitHab] ( https://mashamr.github.io/cv)
+[мой gitHab](https://mashamr.github.io/cv)
